@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-abcfdjksalfjasl
-=======
-zyx
->>>>>>> ramaBito
+zxy
